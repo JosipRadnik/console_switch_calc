@@ -1,4 +1,4 @@
-A simple calculator which implements the 'switch' statement.
+A simple calculator which implements the 'switch' loop.
 
 This app doesn't work on VSC terminal. Error: "Global evaluation requires a thread to have been loaded.".
 
